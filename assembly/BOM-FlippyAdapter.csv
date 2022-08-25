@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+Conn_02x20_Odd_Even,J2,IDC-Header_2x20_P2.54mm_Vertical,
+Conn_02x20_Odd_Even,J1,IDC-Header_2x20_P2.54mm_Vertical,
+MountingHole_Pad,H2,MountingHole_3.5mm_Pad_TopBottom,
+MountingHole_Pad,H1,MountingHole_3.5mm_Pad_TopBottom,
+Board Harness,J3,Luminator_MAX3000,

@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x20_Odd_Even,IDC-Header_2x20_P2.54mm_Vertical,95.545,-84.6525,90.0,top
+J2,Conn_02x20_Odd_Even,IDC-Header_2x20_P2.54mm_Vertical,155.8,-84.6,90.0,top
+J3,Board Harness,Luminator_MAX3000,149.6,-73.8,90.0,top
