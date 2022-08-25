@@ -220,16 +220,17 @@
       (net 62 "PIN_GND") (pinfunction "1") (pintype "input") (tstamp 80e2acd9-08e2-4003-8790-bcd137e877ee))
   )
 
-  (footprint "FlippyAdapter:JLCJLCJLCJLC" (layer "F.Cu")
-    (tedit 62DE08E8) (tstamp 3fe87333-5931-44bb-90b4-566c7f950fdc)
+  (footprint "Nieto_Symbol:JLCPCB_OrderNumber" (layer "F.Cu")
+    (tedit 6306F516) (tstamp 3fe87333-5931-44bb-90b4-566c7f950fdc)
     (at 189.9 87.3)
-    (fp_text reference "JLCJLCJLCJLC" (at -3.5 0 unlocked) (layer "F.SilkS")
+    (attr board_only exclude_from_pos_files exclude_from_bom)
+    (fp_text reference "JLCJLCJLCJLC" (at 0 0 unlocked) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.15)))
-      (tstamp 64131ccf-1d90-4b59-a3de-335452800ea3)
+      (tstamp 5f862758-151d-49e9-afc9-77e21c12ab2f)
     )
     (fp_text value "JLCJLCJLCJLC" (at 0 1 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 0041fa45-5fe1-41a7-84c3-9ed152d8ffa8)
+      (tstamp ae6de280-5a91-4648-9145-4fd1200fb03f)
     )
   )
 
